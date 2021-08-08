@@ -3,6 +3,7 @@ function animalCount(miles) {
         const count = miles * 10;
         return count;
     }
+    else if ()
 }
 
 const value = animalCount(7);
